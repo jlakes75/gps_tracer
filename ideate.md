@@ -1,0 +1,1 @@
+Three design challanges and goals for the course
