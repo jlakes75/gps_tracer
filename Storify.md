@@ -27,7 +27,7 @@
 
 
 ** PERSONA MAPPING **
-![Powerpoint.pdf](i)
+![Personas.pptx](i)
 
 
 * FEATURES AND USEER STORIES*
